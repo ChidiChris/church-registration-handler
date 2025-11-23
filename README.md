@@ -1,4 +1,4 @@
-# Welcome to St. John's redistration handler
+# Welcome to St. John's registration handler
 
 ## Project info
 
